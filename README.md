@@ -1,7 +1,7 @@
 # Google Frontend Clone
 
 This project is a **frontend-only clone** of Google’s search interfaces.  
-It replicates the design and basic functionality of:
+It replicates the design and functionality of:
 
 - **Google Search**
 - **Google Image Search**
