@@ -20,6 +20,7 @@ It replicates the design and functionality of:
 ---
 
 ## 📷 Demo
+
 <img width="1920" height="1078" alt="Image" src="https://github.com/user-attachments/assets/e4396968-2f53-41bf-8a13-9957715ef061" />
 
 <img width="1920" height="1084" alt="Image" src="https://github.com/user-attachments/assets/faf62a06-61ca-4b2c-86d2-e877558d3e54" />
