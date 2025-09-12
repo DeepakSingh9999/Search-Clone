@@ -27,16 +27,6 @@ It replicates the design and basic functionality of:
 
 ---
 
-## 📂 Project Structure
-
-├── index.html # Google Search clone
-├── image.html # Google Image Search clone
-├── advanced.html # Google Advanced Search clone
-├── style.css # Common styling
-└── README.md # Project documentation
-
----
-
 ## 📌 Future Improvements
 
 - **Add dark mode.**
