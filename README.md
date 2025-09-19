@@ -19,6 +19,11 @@ It replicates the design and functionality of:
 
 ---
 
+## Live link:
+https://search-clone-drab.vercel.app/
+
+---
+
 ## 📷 Demo
 
 <img width="1920" height="1078" alt="Image" src="https://github.com/user-attachments/assets/e4396968-2f53-41bf-8a13-9957715ef061" />
