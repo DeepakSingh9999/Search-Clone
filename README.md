@@ -21,6 +21,7 @@ It replicates the design and functionality of:
 
 ## Live link:
 https://search-clone-drab.vercel.app/
+(Google Safe Browsing may be incorrectly displaying a warning, ignore the warning and visit the link.)
 
 ---
 
