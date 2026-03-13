@@ -61,11 +61,18 @@ a:hover{
     margin: 10px;
     padding: 13px;
     height: 45px;
-    width: min(90%, 575px);
+    width: 575px;
     border: 1px solid #c8c7c7;
     border-radius: 50px;
     min-width: 520px;
     box-shadow: 1px 2px 5px 2px #e4e3e3;
+}
+
+@media (max-width: 600px) {
+    .searchBar{
+        padding: 10px 12px;
+        height: 40px;
+    }
 }
 
 .inputField{
